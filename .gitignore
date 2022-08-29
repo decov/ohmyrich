@@ -1,0 +1,31 @@
+# arquivos específicos do OhMyRich!
+build*/
+libdiscord-rpc.a
+discord-rpc.dll
+discord-rpc.lib
+
+# arquivos de objetos compilados
+*.slo
+*.lo
+*.o
+*.obj
+
+# cabeçalhos pré-compilados
+*.gch
+*.pch
+
+# bibliotecas dinâmicas compiladas
+*.so
+*.dylib
+*.dll
+
+# bibliotecas estáticas compiladas
+*.lai
+*.la
+*.a
+*.lib
+
+# executáveis
+*.exe
+*.out
+*.app
