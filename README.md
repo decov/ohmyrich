@@ -1,4 +1,4 @@
-# OhMyRich - Rich Presence Customizável
+# OhMyRich! - Rich Presence Customizável
 
 OhMyRich é um programa para usar o DiscordRPC, para fazer uma Rich Prensece personalizada usando apenas um arquivo de configuração fácil.
 
